@@ -1,8 +1,4 @@
 # form
-This is student Registation Form.
-
-<!-- Student Regestation Form -->
-
 
 <!DOCTYPE html>
 <html lang="en">
